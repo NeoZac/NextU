@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Practica1">
+	<meta name="keywords" content="curriculum,vitae,Isaac,Martinez,Mondragon">
+	<meta name="author" content="Isaac Martinez Mondragon">		
+	<title>Hoja de Vida</title>
+	</head>
+
+	<body>
+		<svg viewbox='0 0 56px 26px' x="0" y="0" width="112px" height="52px">
+			<image xlink:href="recursos/imagen/LogoGzac.svg" width="112px" height="52px">
+				<desc>Logo gZac</desc>
+			</image>
+		</svg>
+
+		<h1>Hoja de Vida</h1>
+
+		<h2>Lic. Isaac Martínez Mondragón</h2>
+		<h3>Ciudad de México, México</h3>
+		<h3>29 de octubre de 1976</h3>
+
+		<ul>
+			<a href="index.html"><li>Inicio</li></a>
+			<a href="educacion.html"><li>Educación</li></a>
+			<a href="experiencia.html"><li>Experiencia</li></a>
+		</ul>
+		<!-- ********* -->
+		<h2>Educación</h2>
+		<table border="1">
+		 <thead>
+			<tr>
+				 <th>Año</th>
+				 <th>Institución</th>
+				 <th>Lugar</th>
+				 <th>Certificado</th>
+				 <th>¿Culminó?</th>
+			</tr>
+		 </thead>		
+	 <tbody>
+		<tr>
+			 <td>2010</td>
+			 <td>Universidad Hispano Mexicana</td>
+			 <td>Ciudad de México, México</td>
+			 <td>Licenciatuara en sistemas computacionales.</td>
+			 <td>Si</td>
+		</tr>
+		<tr>
+			 <td>1996</td>
+			 <td>Data-Mex</td>
+			 <td>Ciudad de México, México</td>
+			 <td>Técnico programador analista de computadoras.</td>
+			<td>Si</td>
+		</tr>	 
+	 </tbody>
+		</table>
+
+		<h2>Agregar Estudios</h2>
+		
+		<form>
+			
+			<label for='nYear'>Año: </label>
+			<input type="text" name="nYear"  id="nYear"  value="" list="nYear-lst" required/><br>
+			<datalist id="nYear-lst">
+				<option value="2015">
+				<option value="2016">
+				<option value="2017">
+				<option value="2018">
+				<option value="2019">
+				<option value="2020">
+			</datalist>		
+
+			<label for='nInst'>Institución: </label>
+			<input type="text" name="nInst" id="nInst" value="" required/><br>
+
+			<label for='nLug'>Lugar: </label>
+			<textarea rows="4" cols="40" name="nLug" id="nLug" required>
+			</textarea><br>
+
+			<label for='nCert'>Certificado: </label>
+			<textarea rows="4" cols="40" name="nCert" id="nCert" required>
+			</textarea><br>
+
+			<label for='nCulm'>¿Culminó?: </label>
+			<input type="radio" name="nCulm" id="nCulm" value="Si"/>Si
+			<input type="radio" name="nCulm" id="nCulm" value="No"/>No<br>
+			<input type="submit" value="Submit">
+			
+		</form>
+
+		<!-- ********* -->
+		<footer>
+			<h2>Información de contacto:</h2>
+			<p>
+				<a href="mailto:isaac.martinez.mondragon@gmail.com">isaac.martinez.mondragon@gmail.com</a>			
+			</p>
+			<p>
+				<a href="https://www.facebook.com/isaac.martinezmondragon">facebook</a>
+			</p>
+			<p>
+				Teléfono: (55) 3969 6445
+			</p>		
+		</footer>
+
+	</body>
+
+</html>

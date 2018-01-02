@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 46 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1,0,0,1,-5.53824,8.90257)">
+        <path d="M12.929,0.694L12.929,-0.986C12.929,-0.986 17.038,-0.954 18.994,-0.996C19.009,0.434 19.75,4.221 16.113,5.992C15.159,6.448 14.108,6.553 13.066,6.553C11.66,6.553 10.382,6.252 9.233,5.65C8.084,5.048 7.216,4.177 6.631,3.038C6.045,1.898 5.752,0.625 5.752,-0.781C5.752,-2.174 6.043,-3.474 6.626,-4.682C7.208,-5.89 8.047,-6.787 9.14,-7.373C10.234,-7.959 11.494,-8.251 12.92,-8.251C13.955,-8.251 14.891,-8.084 15.727,-7.749C16.564,-7.413 17.125,-6.947 17.6,-6.348C18.076,-5.749 18.565,-4.503 18.812,-3.54L17.07,-3.535C16.855,-4.264 16.588,-4.837 16.269,-5.253C15.95,-5.67 15.494,-6.004 14.902,-6.254C14.31,-6.505 13.652,-6.63 12.929,-6.63C12.063,-6.63 11.315,-6.499 10.683,-6.235C10.052,-5.971 9.542,-5.625 9.155,-5.195C8.768,-4.765 8.466,-4.293 8.252,-3.779C7.887,-2.893 7.705,-1.933 7.705,-0.898C7.705,0.378 7.924,1.446 8.364,2.305C8.803,3.165 9.443,3.803 10.283,4.219C11.123,4.636 12.015,4.844 12.959,4.844C13.779,4.844 14.584,4.696 15.361,4.371C17.872,3.319 17.138,0.694 17.138,0.694L12.929,0.694Z" style="fill:rgb(33,110,255);fill-rule:nonzero;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,9.41506,6.96245)">
+        <text x="4.687px" y="6.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(33,110,255);">z</text>
+    </g>
+    <g transform="matrix(1,0,0,1,19.8392,6.96245)">
+        <text x="4.687px" y="6.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(33,110,255);">a</text>
+    </g>
+    <g transform="matrix(1,0,0,1,30.5663,6.96245)">
+        <text x="4.687px" y="6.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:none;">c</text>
+        <text x="4.687px" y="6.309px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:20px;fill:rgb(33,110,255);">c</text>
+    </g>
+</svg>
